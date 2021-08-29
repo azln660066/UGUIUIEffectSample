@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteImages
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 85c015874c6b80942a9c7bea67d92c75, type: 3}
+    - {fileID: 2800000, guid: f7d3661d488a2bd4592fe497344cd0f2, type: 3}
+    - {fileID: 2800000, guid: 4743eed746c48e64a9fa036d52173ff0, type: 3}
+    - {fileID: 2800000, guid: cf0c85c0c5a019a47ad5e10b6a43d8b1, type: 3}
+    - {fileID: 2800000, guid: cb5e536dcf98a7d4eb6b6f072aed6221, type: 3}
+    - {fileID: 2800000, guid: 316b85de7b563b14295cf3eb9740e0c6, type: 3}
+    - {fileID: 2800000, guid: 0b7c8f5e8e7e3cf4c9ac53085f82ce28, type: 3}
+    - {fileID: 2800000, guid: 255fb7c90d59d524f9c6badffb1cbd36, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cf0c85c0c5a019a47ad5e10b6a43d8b1, type: 3}
+  - {fileID: 21300000, guid: 85c015874c6b80942a9c7bea67d92c75, type: 3}
+  - {fileID: 21300000, guid: 4743eed746c48e64a9fa036d52173ff0, type: 3}
+  - {fileID: 21300000, guid: 255fb7c90d59d524f9c6badffb1cbd36, type: 3}
+  - {fileID: 21300000, guid: f7d3661d488a2bd4592fe497344cd0f2, type: 3}
+  - {fileID: 21300000, guid: cb5e536dcf98a7d4eb6b6f072aed6221, type: 3}
+  - {fileID: 21300000, guid: 0b7c8f5e8e7e3cf4c9ac53085f82ce28, type: 3}
+  - {fileID: 21300000, guid: 316b85de7b563b14295cf3eb9740e0c6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Sprite_CrossFlare
+  - Sprite_Star
+  - Sprite_Circle
+  - Sprite_Rope
+  - Sprite_Bokeh
+  - Sprite_FireSpark
+  - Sprite_Gradation
+  - Sprite_FlareLine
+  m_Tag: SpriteImages
+  m_IsVariant: 0

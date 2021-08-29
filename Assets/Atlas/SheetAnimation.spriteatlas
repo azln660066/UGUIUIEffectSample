@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SheetAnimation
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a26a2885861c0444bbd2c9e66a0d076a, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2ef1dc20e5ee5e5498ea88194dc03b34, type: 3}
+  - {fileID: 21300000, guid: 35319230db5e1ec4e97fc6f009cd405c, type: 3}
+  - {fileID: 21300000, guid: e6d1f9b1926cb454b851a8b4cb822a85, type: 3}
+  - {fileID: 21300000, guid: acb074d173fcfc344b384df0f9b8fe00, type: 3}
+  - {fileID: 21300000, guid: cbed86d12fc9b8c40a1b223bef430307, type: 3}
+  - {fileID: 21300000, guid: e0a589f1ebfd77e44bd52216a17c5eca, type: 3}
+  - {fileID: 21300000, guid: 3e2b1d12aa1d71a47bf789bc1f94305a, type: 3}
+  - {fileID: 21300000, guid: 34c34223e368da948a8f350c11c659e7, type: 3}
+  - {fileID: 21300000, guid: c62931e538492704c81c76bdcadfc21f, type: 3}
+  - {fileID: 21300000, guid: c8ae43074b3372b499177b34f0626e8a, type: 3}
+  - {fileID: 21300000, guid: 61edb18b9562f6a459191a95e07aaccf, type: 3}
+  - {fileID: 21300000, guid: 55621a6c0f72fb04397a66a19c9af7f7, type: 3}
+  - {fileID: 21300000, guid: 58d8ba9c2a1c9c04aa7e70bbddb6682a, type: 3}
+  - {fileID: 21300000, guid: 681a6f1d9a5558c4391622cd6653b68a, type: 3}
+  - {fileID: 21300000, guid: 80adc6ad99c7dac40b06bcedc452ba54, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SheetanimationSample_06
+  - SheetanimationSample_04
+  - SheetanimationSample_08
+  - SheetanimationSample_02
+  - SheetanimationSample_13
+  - SheetanimationSample_01
+  - SheetanimationSample_14
+  - SheetanimationSample_05
+  - SheetanimationSample_03
+  - SheetanimationSample_12
+  - SheetanimationSample_09
+  - SheetanimationSample_15
+  - SheetanimationSample_07
+  - SheetanimationSample_11
+  - SheetanimationSample_10
+  m_Tag: SheetAnimation
+  m_IsVariant: 0
