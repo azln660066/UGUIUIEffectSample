@@ -57,6 +57,43 @@ UGUI 관련 이펙트 제작시 여러 상황과 이슈에 다양하게 대응�
 
 
 
+5. 제작 스킬 : 초급-3 (퍼지는 별)
+
+![Honeycam 2021-08-14 19-59-23](https://user-images.githubusercontent.com/89733246/132146982-040ef70a-6e2f-45b3-9d3a-804c71603363.gif)
+
+
+
+
+6. 제작 스킬 : 중급-1 (티끌)
+
+![Honeycam 2021-08-16 20-18-28](https://user-images.githubusercontent.com/89733246/132147012-7c50160b-943b-49e7-a56e-efb2de715237.gif)
+
+
+
+
+7. 제작 스킬 : 시트애니메이션 제작(Sprite Sheet Animation)
+
+![Honeycam 2021-08-21 16-06-15](https://user-images.githubusercontent.com/89733246/132147086-3f354830-c052-4a03-bb52-02fec68daec6.gif)
+
+
+
+
+8. 제작 스킬 : 중급-2 (시작-연속 연결)
+
+![Honeycam 2021-08-28 20-26-18](https://user-images.githubusercontent.com/89733246/132147150-a6d7d8e4-f60c-48be-b586-e8089861c066.gif)
+
+
+
+
+
+9. 제작 스킬 : UI 전용 Additive(=Screen효과) Shader 제작 
+
+![Honeycam 2021-08-28 01-10-27](https://user-images.githubusercontent.com/89733246/132147181-497b65ea-fe71-47e8-bea1-9a89415329a2.gif)
+
+
+
+
+10. 최적화를 위한 아틀라스
 
 
 
