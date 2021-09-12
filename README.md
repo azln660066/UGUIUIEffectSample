@@ -7,11 +7,11 @@ UGUI 관련 이펙트 제작시 여러 상황과 이슈에 다양하게 대응�
 
 대신 참고 및 교육용으로 사용하시기 바랍니다.
 
-그러나 블로그 및 타카페에서 스크랩을 해가실 경우 반드시 이주소(https://github.com/azln660066/UGUIUIEffectSample) 를
+그러나 블로그 및 타카페에서 스크랩을 해가실 경우 반드시 이주소( https://github.com/azln660066/UGUIUIEffectSample ) 를
 기재해 주시면 감사드리겠습니다.
 
 특히나 학원/교육기관 강사분들이 이 자료를 인용하여 강의하실 경우
-제 이메일에 제 티스토리 블로그 방명록(https://azln660066.tistory.com/guestbook)에 미리 댓글로 알려주시면 감사드리겠습니다.
+제 이메일에 제 티스토리 블로그 방명록( https://azln660066.tistory.com/guestbook )에 미리 댓글로 알려주시면 감사드리겠습니다.
 
 
 
