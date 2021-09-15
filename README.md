@@ -11,10 +11,15 @@
 
 UGUI 관련 이펙트 제작시 여러 상황과 이슈에 다양하게 대응할수 있는 능력을 향상하고 새로운 경험과 다양한 노하우를 습득하기 위해 본 자료를 제작하여 무료로 배포합니다.
 
+PPT 문서 : https://docs.google.com/presentation/d/1bj__Ei_35hYgkLkpQfm5pSKokUEO2LjWvDczfoU3MHY/edit#slide=id.ge849a54f50_0_4
+
 
 
 
 대신 참고 및 교육용으로 사용하시기 바랍니다.
+
+
+
 
 
 
