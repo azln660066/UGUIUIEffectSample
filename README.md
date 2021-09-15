@@ -46,6 +46,8 @@ UGUI 관련 이펙트 제작시 여러 상황과 이슈에 다양하게 대응�
 
 1. 제작 스킬 : 입문-1 (반짝이 효과)
 
+Assets/Scene/1/1_1 ~ 1_3.scene
+
 ![1](https://user-images.githubusercontent.com/89733246/132146530-db0954ee-6c56-4e39-864e-e214257d52e4.gif)
 
 
@@ -54,6 +56,8 @@ UGUI 관련 이펙트 제작시 여러 상황과 이슈에 다양하게 대응�
 
 2. 제작 스킬 : 입문-2 (로프 움직임)
 
+Assets/Scene/2/2_1 ~ 2_2.scene
+
 ![Honeycam 2021-08-07 19-32-40](https://user-images.githubusercontent.com/89733246/132146630-322546ae-f5f5-4902-934b-4f4317f3fd2b.gif)
 
 
@@ -61,12 +65,16 @@ UGUI 관련 이펙트 제작시 여러 상황과 이슈에 다양하게 대응�
 
 3. 제작 스킬 : 초급-1 (원형 파동 > 보케 효과)
 
+Assets/Scene/3/3_1 ~ 3_6.scene
+
 ![3_1](https://user-images.githubusercontent.com/89733246/132146877-75297d45-45b0-4750-863c-6e67a4e024bd.gif) ![3_2](https://user-images.githubusercontent.com/89733246/132146882-7aaff27b-f2e9-4897-b208-091a9d85fd24.gif)
 
 
 
 
 4.제작 스킬 : 초급-2 (연속으로 퍼지는 선줄기)
+
+Assets/Scene/4/4_1 ~ 4_4.scene
 
 ![Honeycam 2021-08-27 03-10-48](https://user-images.githubusercontent.com/89733246/132146921-69198fcb-2c72-41b3-8850-0230a34af5de.gif)
 
@@ -76,12 +84,16 @@ UGUI 관련 이펙트 제작시 여러 상황과 이슈에 다양하게 대응�
 
 5. 제작 스킬 : 초급-3 (퍼지는 별)
 
+Assets/Scene/5/5_1 ~ 5_7.scene
+
 ![Honeycam 2021-08-14 19-59-23](https://user-images.githubusercontent.com/89733246/132146982-040ef70a-6e2f-45b3-9d3a-804c71603363.gif)
 
 
 
 
 6. 제작 스킬 : 중급-1 (티끌)
+
+Assets/Scene/6/6_1 ~ 6_7.scene
 
 ![Honeycam 2021-08-16 20-18-28](https://user-images.githubusercontent.com/89733246/132147012-7c50160b-943b-49e7-a56e-efb2de715237.gif)
 
@@ -90,12 +102,16 @@ UGUI 관련 이펙트 제작시 여러 상황과 이슈에 다양하게 대응�
 
 7. 제작 스킬 : 시트애니메이션 제작(Sprite Sheet Animation)
 
+Assets/Scene/7_SheetAnimation.scene
+
 ![Honeycam 2021-08-21 16-06-15](https://user-images.githubusercontent.com/89733246/132147086-3f354830-c052-4a03-bb52-02fec68daec6.gif)
 
 
 
 
 8. 제작 스킬 : 중급-2 (시작-연속 연결)
+
+Assets/Scene/8/8_StartLoop.scene
 
 ![Honeycam 2021-08-28 20-26-18](https://user-images.githubusercontent.com/89733246/132147150-a6d7d8e4-f60c-48be-b586-e8089861c066.gif)
 
@@ -105,6 +121,8 @@ UGUI 관련 이펙트 제작시 여러 상황과 이슈에 다양하게 대응�
 
 9. 제작 스킬 : UI 전용 Additive(=Screen효과) Shader 제작 
 
+Assets/Scene/Additive/Additive.scene
+
 ![Honeycam 2021-08-28 01-10-27](https://user-images.githubusercontent.com/89733246/132147181-497b65ea-fe71-47e8-bea1-9a89415329a2.gif)
 
 
@@ -112,9 +130,16 @@ UGUI 관련 이펙트 제작시 여러 상황과 이슈에 다양하게 대응�
 
 10. 최적화를 위한 아틀라스
 
+Assets/Scene/All/All.scene
 
 
-11. 특전
+11. 특전 (영상 링크 : https://www.youtube.com/watch?v=SNsroQK7BII) 
+
+Assets/Special/Scene/Special_1.scene
+
+[![Watch the video](https://user-images.githubusercontent.com/89733246/133479284-6e80bf20-5b95-4fba-8b58-a32759da6719.png)](https://www.youtube.com/watch?v=SNsroQK7BII)
+
+
 * 본 작업물은 z축 움직임 없이 만들어진 예시이기때문에 
 이펙트를 위한 포트폴리오로 보실경우에는 퀄리티적으로 밋밋하고 떨어질수도 있습니다. 이점 미리 양해드리며
 추후 피드백을 기반으로 하는 후속작업을 통해서 퀄리티를 더 올릴 예정이며,
