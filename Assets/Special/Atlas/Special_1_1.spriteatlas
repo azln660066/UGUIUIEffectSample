@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Special_1_1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e689353baaf219f4882adb9a14a72560, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 87e959d08c3345948a0ea64865e8de42, type: 3}
+  - {fileID: 21300000, guid: 1b48f111b380c514083cd9e98e237cb7, type: 3}
+  - {fileID: 21300000, guid: b5d66a32054eb184ab83b49736d00a0f, type: 3}
+  - {fileID: 21300000, guid: 8b855cd4bc9bd254d9b3e2bde7b6962d, type: 3}
+  - {fileID: 21300000, guid: db316625d12e0b6458c055cb36920014, type: 3}
+  - {fileID: 21300000, guid: 053d7955d6c98c24382c27846cbb809d, type: 3}
+  - {fileID: 21300000, guid: 40747f0758011cc4db79bcf36a1144ef, type: 3}
+  - {fileID: 21300000, guid: 88a1c3676dd9aff41916e8c8d1bf3483, type: 3}
+  - {fileID: 21300000, guid: fbe2324dacd85cc4cb08f474af26f80b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Special_1_1_Clock_2
+  - Special_1_1_BG_1
+  - Special_1_1_Gradation_2
+  - Special_1_1_Gradation_1
+  - Special_1_1_Pendulum_2
+  - Special_1_1_Pendulum_3
+  - Special_1_1_Pendulum_1
+  - Special_1_1_White
+  - Special_1_1_Clock_1
+  m_Tag: Special_1_1
+  m_IsVariant: 0

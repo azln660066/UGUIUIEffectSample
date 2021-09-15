@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Special_1_3
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e9dd1822c7b28444d9da213805ed89a1, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 11e0a98061ee31942810aaf79278902d, type: 3}
+  - {fileID: 21300000, guid: 3bd11f80bc0df4442bce6b6702f783d7, type: 3}
+  - {fileID: 21300000, guid: fe9a58a0af4e86a4db246370f3ee0f64, type: 3}
+  - {fileID: 21300000, guid: b96d52121cc89624cb7a801f4ad02a37, type: 3}
+  - {fileID: 21300000, guid: 7b756ba3d72e65f4480fc840d377a880, type: 3}
+  - {fileID: 21300000, guid: 1147d8b34c8a30d4ca563bba79ffab98, type: 3}
+  - {fileID: 21300000, guid: a5f41174dc1450940a8a1498fcc6e8c3, type: 3}
+  - {fileID: 21300000, guid: d12aaeb415a687a40a0ad5518328070f, type: 3}
+  - {fileID: 21300000, guid: f00de145dae2e45499f70a84f1b72e9e, type: 3}
+  - {fileID: 21300000, guid: e90d07c59b3501244b198d3008a8219b, type: 3}
+  - {fileID: 21300000, guid: 95976ce54e8215b4893d04ca9eb11e43, type: 3}
+  - {fileID: 21300000, guid: dbceb7760e88c964698afaf77d77d071, type: 3}
+  - {fileID: 21300000, guid: ab11f9b6667869d4290b340d2717aa5b, type: 3}
+  - {fileID: 21300000, guid: 6f68c3c6d6353fc4b92408d465f70ebf, type: 3}
+  - {fileID: 21300000, guid: ec4984d69f35b2645a69e304ed96f202, type: 3}
+  - {fileID: 21300000, guid: 9d0bcb271322f70408bef0f61bd32c94, type: 3}
+  - {fileID: 21300000, guid: 34a48c27690693d4fbe458c5ceec1d43, type: 3}
+  - {fileID: 21300000, guid: 9587f4775ab8703449229e0690f66169, type: 3}
+  - {fileID: 21300000, guid: b821d0283b773d04a94af32c7effc834, type: 3}
+  - {fileID: 21300000, guid: d34240786a6e5df498e39d50cd97bd27, type: 3}
+  - {fileID: 21300000, guid: f0a4f839b26ed9b41b40ccbca64532e8, type: 3}
+  - {fileID: 21300000, guid: eb8032b954af83a44aefa157c6d24c50, type: 3}
+  - {fileID: 21300000, guid: 69d12ad9d6ca206479815cfad0f5d592, type: 3}
+  - {fileID: 21300000, guid: 265d732b4932fbd42affda937b999e65, type: 3}
+  - {fileID: 21300000, guid: 0c8a63bb45c258041a8a3761023a0794, type: 3}
+  - {fileID: 21300000, guid: f5cc5ffbee7f0e34a84ce7136c588ad2, type: 3}
+  - {fileID: 21300000, guid: cbb1832c74a27b1458c3ddfe9902efd1, type: 3}
+  - {fileID: 21300000, guid: e37b736ce4f69aa4d976063a6a86ef63, type: 3}
+  - {fileID: 21300000, guid: 44e0a20d57440dd498db367181d0ab86, type: 3}
+  - {fileID: 21300000, guid: aa2d5f9da3d940a4cbbd1163dd8843af, type: 3}
+  - {fileID: 21300000, guid: 3ed1a51e9c759b1458090f7ec7fe3b32, type: 3}
+  - {fileID: 21300000, guid: 7eaf618e8b3d58840a4379fd8d660964, type: 3}
+  - {fileID: 21300000, guid: eedd70fe62391294f832cae4cc0380f8, type: 3}
+  - {fileID: 21300000, guid: ac6c1b3f3a66e124ea4d947337231452, type: 3}
+  - {fileID: 21300000, guid: 1e0a404f24ff452428eadf032228c092, type: 3}
+  - {fileID: 21300000, guid: 62cc085fb5c4d9c41bf554025c8aba79, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Special_1_3_CardRainbow_14
+  - Special_1_3_CardRainbow_26
+  - Special_1_3_CardRainbow_21
+  - Special_1_3_CardRainbow_12
+  - Special_1_3_CardRainbow_01
+  - Special_1_3_CardRainbow_22
+  - Special_1_3_CardRainbow_04
+  - Special_1_3_CardRainbow_00
+  - Special_1_3_CardRainbow_17
+  - Special_1_3_CardRainbow_05
+  - Special_1_3_CardRainbow_10
+  - Special_1_3_CardRainbow_02
+  - Special_1_3_CardRainbow_24
+  - Special_1_3_CardRainbow_06
+  - Special_1_3_CardRainbow_03
+  - Special_1_3_CardRainbow_07
+  - Special_1_3_CardRainbow_09
+  - Special_1_3_CardRainbow_27
+  - Special_1_3_CardRainbow_25
+  - Special_1_3_Card_2
+  - Special_1_3_CardRainbow_18
+  - Special_1_3_CardRainbow_23
+  - Special_1_3_CardRainbow_11
+  - Special_1_3_CardRainbow_16
+  - Special_1_3_CardRainbow_08
+  - Special_1_3_CardGlow_1
+  - Special_1_3_CardRainbow_20
+  - Special_1_3_CardRainbow_28
+  - Special_1_3_CardRainbow_30
+  - Special_1_3_CardWind_1
+  - Special_1_3_CardRainbow_29
+  - Special_1_3_CardRainbow_13
+  - Special_1_3_Card_1
+  - Special_1_3_CardRainbow_19
+  - Special_1_3_CardWind_2
+  - Special_1_3_CardRainbow_15
+  m_Tag: Special_1_3
+  m_IsVariant: 0

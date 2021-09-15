@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Special_1_2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 24f3c1ccb0dd3cb4a855046027adadd7, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 551d8b9070279f0498a5634362eae4f7, type: 3}
+  - {fileID: 21300000, guid: 7f9ddca02926d30489677901113c65c1, type: 3}
+  - {fileID: 21300000, guid: 1a8ba8b2ab1d905459a879219007e883, type: 3}
+  - {fileID: 21300000, guid: eb0f4fb26f9172644a696c5d221871cb, type: 3}
+  - {fileID: 21300000, guid: 89b60423e892b6e4db71c83c42e022fa, type: 3}
+  - {fileID: 21300000, guid: ad61b5f40fa096245b240e1480f5a1b1, type: 3}
+  - {fileID: 21300000, guid: a42d526610a46764b9727ecc281a2d2a, type: 3}
+  - {fileID: 21300000, guid: e5b784969e24c1b468173001ffbcfe90, type: 3}
+  - {fileID: 21300000, guid: bee8fae9ee983634bbb591d695553b5c, type: 3}
+  - {fileID: 21300000, guid: 0cf1832a7ce66c149a8b497438c239f4, type: 3}
+  - {fileID: 21300000, guid: f4e3968b06bd5cf40bf0030313325fc5, type: 3}
+  - {fileID: 21300000, guid: 5c57560c026d88d4c8a00fbd2940de39, type: 3}
+  - {fileID: 21300000, guid: a9f6726d41954af4691f0c6bc341f04c, type: 3}
+  - {fileID: 21300000, guid: 479783cd613bb73469bb13c2d3fc32b6, type: 3}
+  - {fileID: 21300000, guid: 1b20bd0e633ce94488dfa3f6b18d1e35, type: 3}
+  - {fileID: 21300000, guid: 43fd396ef9dd2544889ac8b266e0a199, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Special_1_2_WindGate_04
+  - Special_1_2_WindGate_11
+  - Special_1_2_WindGate_01
+  - Special_1_2_WindGate_15
+  - Special_1_2_WindGate_08
+  - Special_1_2_WindGate_05
+  - Special_1_2_WindGate_13
+  - Special_1_2_WindGate_02
+  - Special_1_2_WindGate_12
+  - Special_1_2_WindGate_06
+  - Special_1_2_WindGate_14
+  - Special_1_2_WindGate_07
+  - Special_1_2_WindGate_09
+  - Special_1_2_WindGate_10
+  - Special_1_2_White
+  - Special_1_2_WindGate_03
+  m_Tag: Special_1_2
+  m_IsVariant: 0
