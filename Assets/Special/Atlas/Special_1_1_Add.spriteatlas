@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Special_1_1_Add
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dd8aa7493790092409b554e88ede66dd, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6142bb0011896644aa7da20da584d8ff, type: 3}
+  - {fileID: 21300000, guid: 17e4da507e869b84d834d10a2d43d6e2, type: 3}
+  - {fileID: 21300000, guid: 527b9a912e61093469cc9b1e7cefa2ad, type: 3}
+  - {fileID: 21300000, guid: 547bf293f35cfff4f971f1a31d9b2a44, type: 3}
+  - {fileID: 21300000, guid: 799898e342eb9b048a7a08c371e817ee, type: 3}
+  - {fileID: 21300000, guid: a5086914b0d91794db5af7da28e514fd, type: 3}
+  - {fileID: 21300000, guid: acc36ec443fbe8047b31d86faa76fd38, type: 3}
+  - {fileID: 21300000, guid: 041dd04749ad297409f31016f591a58b, type: 3}
+  - {fileID: 21300000, guid: 1bf1f6984cdd3d24b99256b6fa87ef9c, type: 3}
+  - {fileID: 21300000, guid: d3d8fc9bea23a0543aa18e348d477386, type: 3}
+  - {fileID: 21300000, guid: ea813f1ef5562e849969af613a4a3e8b, type: 3}
+  - {fileID: 21300000, guid: 14fc07ce15ff9bd40abb555dc8e28b8d, type: 3}
+  - {fileID: 21300000, guid: 6973b53faa8ecb84b87a759881a8ed63, type: 3}
+  - {fileID: 21300000, guid: 9104daafd4749ca4b89cb576ec386520, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Special_1_1_Add_RedialFlare_1
+  - Special_1_1_Add_SpectrumRadialLine_3
+  - Special_1_1_Add_CircleGlow_4
+  - Special_1_1_Add_Rainbow_1
+  - Special_1_1_Add_Flareline_2
+  - Special_1_1_Add_SpectrumRadialLine_2
+  - Special_1_1_Add_SpectrumRadialLine_4
+  - Special_1_1_Add_CircleGlow_2
+  - Special_1_1_Add_Flareline_1
+  - Special_1_1_Add_Dust_1
+  - Special_1_1_Add_Gradation_1
+  - Special_1_1_Add_CircleGlow_1
+  - Special_1_1_Add_CircleGlow_3
+  - Special_1_1_Add_SpectrumRadialLine_1
+  m_Tag: Special_1_1_Add
+  m_IsVariant: 0

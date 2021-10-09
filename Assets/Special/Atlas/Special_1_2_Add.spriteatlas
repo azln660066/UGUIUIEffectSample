@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Special_1_2_Add
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 33
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2aa9fc0a0c815f441bb35d315b77b437, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9a88bff0a85e64e4b818ef68d60e0e2d, type: 3}
+  - {fileID: 21300000, guid: 4bda8053d7521934a8dc11cbdaa56431, type: 3}
+  - {fileID: 21300000, guid: d4b30d73c1c11a7448e41621bc1fb4b2, type: 3}
+  - {fileID: 21300000, guid: 68be61b3a26a31d4daa6056a118ed225, type: 3}
+  - {fileID: 21300000, guid: 96014344cd0b49443883e71cabef6493, type: 3}
+  - {fileID: 21300000, guid: 030d776477c3b124e839e919b38265be, type: 3}
+  - {fileID: 21300000, guid: ff86bd8421d23694f89de108069c18f5, type: 3}
+  - {fileID: 21300000, guid: d09f19c4629f6ab4ba6f5f31fee87168, type: 3}
+  - {fileID: 21300000, guid: 738d8f15e87c5834d970746823330a21, type: 3}
+  - {fileID: 21300000, guid: 7104949714de4ae4a8ecb8d916048887, type: 3}
+  - {fileID: 21300000, guid: f7396a38aaed13944bd6f73a6972e674, type: 3}
+  - {fileID: 21300000, guid: c1a83c89e1e29244690c6451efb951ee, type: 3}
+  - {fileID: 21300000, guid: 7f287ce9cc817cf478df877f74d3062a, type: 3}
+  - {fileID: 21300000, guid: cf8a6b3a818932c478627c001dbaf1be, type: 3}
+  - {fileID: 21300000, guid: d1a00dfa4162f8a49b6ffc2035e09666, type: 3}
+  - {fileID: 21300000, guid: 5accaf3b98c8f2e4ca60999f76162fe6, type: 3}
+  - {fileID: 21300000, guid: 807c10bb27a4a9f449fa4187acdd4661, type: 3}
+  - {fileID: 21300000, guid: 091b40cb4dbab8442872e55879bbb6bf, type: 3}
+  - {fileID: 21300000, guid: 427cefdb8931bb549843c2f9d0b779b8, type: 3}
+  - {fileID: 21300000, guid: 4757cced1cdda1842a375a6bdbd5c2b6, type: 3}
+  - {fileID: 21300000, guid: 6527beed1f290e949a420ea6dad062c0, type: 3}
+  - {fileID: 21300000, guid: 4d330b4ec736c2043b722a9f37d889c3, type: 3}
+  - {fileID: 21300000, guid: 1f1258aef3bfa744f95f9f684725b561, type: 3}
+  - {fileID: 21300000, guid: 2857c32fc3043b74180dbb4b05080b98, type: 3}
+  - {fileID: 21300000, guid: bdd5b66f15257914c99dab99c9795706, type: 3}
+  - {fileID: 21300000, guid: dc4dd68ffaea8b749a5658ddfd42f3ed, type: 3}
+  - {fileID: 21300000, guid: 9a58999fa3b8e9f4db18b8ea827549fe, type: 3}
+  - {fileID: 21300000, guid: e2bbc0cf3f96f4640ab9025fa9712330, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Special_1_2_CardGloss_14
+  - Special_1_2_CardGloss_07
+  - Special_1_2_Add_White
+  - Special_1_2_CardGloss_03
+  - Special_1_2_Add_CrossFlare_2
+  - Special_1_2_Add_Card_1
+  - Special_1_2_Add_CrossFlare_4
+  - Special_1_2_Add_Flareline_2
+  - Special_1_2_Add_Flareline_1
+  - Special_1_2_Add_CircleFlare
+  - Special_1_2_CardGloss_01
+  - Special_1_2_CardGloss_10
+  - Special_1_2_CardGloss_04
+  - Special_1_2_CardGloss_09
+  - Special_1_2_Add_CrossFlare_1
+  - Special_1_2_Add_CrossFlare_3
+  - Special_1_2_Add_LineFlare_1
+  - Special_1_2_CardGloss_02
+  - Special_1_2_CardGloss_15
+  - Special_1_2_CardGloss_06
+  - Special_1_2_CardGloss_05
+  - Special_1_2_Add_Circle
+  - Special_1_2_CardGloss_08
+  - Special_1_2_CardGloss_12
+  - Special_1_2_Add_CircleGlow_1
+  - Special_1_2_CardGloss_00
+  - Special_1_2_CardGloss_11
+  - Special_1_2_CardGloss_13
+  m_Tag: Special_1_2_Add
+  m_IsVariant: 0
